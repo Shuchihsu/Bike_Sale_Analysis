@@ -39,6 +39,8 @@ sdf
 * Both for female and male: the income higher than the average income respectively, they incline to buy bikes.
 * Middle age groups have four times chances to buy bike than the other two (younger and older) groups.
 * People commute within two miles have twice chances to buy bikes.
+* Click below link to download the excel file:
+https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Bike_sale_dashboard.xlsx
 
 
 
