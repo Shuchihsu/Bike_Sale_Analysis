@@ -6,8 +6,8 @@ We are using excel to analyze the bike sales data. Use different functions to cl
 
 ### Clean up and organize the data
 
-The spreadsheet:
-!(https://github.com/Shuchihsu/Bike_sales_Analysis/blob/main/Resources/peak2022-11-17%20121448.png)
+The spreadsheet looks like this:
+![](https://github.com/Shuchihsu/Bike_sales_Analysis/blob/main/Resources/peak2022-11-17%20121448.png)
 
 * Clean up: Use **Remove Duplicate** and **ISBLANK** to filter and remove rows we don’t need.
 * Change variable names to make sense to stakeholder: use **Replace all** for F to Female and M to Male. M to Married and S to Single.
