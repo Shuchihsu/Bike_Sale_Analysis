@@ -19,13 +19,8 @@ The spreadsheet looks like this:
 Use Pivot table to create the graphs
 
 * First graph: show how gender (Female and male) and income impact the bike sales.
-![gender]( https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Resources/gender%202022-11-17%20140739.png)
-
-* Second graph: how age groups impact bike sales.
 ![Age](https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Resources/age%20group%202022-11-17%20140914.png)
-* Third graph: how commute distance impact bike sales.
-![commute]( https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Resources/commute%202022-11-17%20140832.png)
-
+* Second graph: 
 
 
 ### Create Dashboard
