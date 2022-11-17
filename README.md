@@ -4,7 +4,7 @@
 
 We are using excel to analyze the bike sales data. Use different functions to clean up and organize data. Then create interactive dashboards to demonstrate the sales data with filters.
 
-### Clean up and organize the data
+## Clean up and organize the data
 
 The spreadsheet looks like this:
 ![spreadsheet](https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Resources/peak2022-11-17%20121448.png) 
@@ -14,7 +14,7 @@ The spreadsheet looks like this:
 
 **=IF(L2>54,"Old", IF(L2>=31,"Middle age”,IF(L2<31,"Adlescent","Invalid")))**
 
-### Create graphs
+## Create graphs
 
 Use Pivot table to create the graphs
 
@@ -26,9 +26,23 @@ Use Pivot table to create the graphs
 * Third graph: how commute distance impact bike sales.
 ![commute]( https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Resources/commute%202022-11-17%20140832.png)
 
+sdf
+
+## Create Dashboard
+* Filter created: use PivotChart Analyze >> Insert Slicer 
+* Apply the filter to all three graphs: Slice >> Report connections
+
+![commute](https://github.com/Shuchihsu/Bike_sale_analysis/blob/main/Resources/dashboard%202022-11-17%20152625.png)
+
+### Results
+
+* Both for female and male: the income higher than the average income respectively, they incline to buy bikes.
+* Middle age groups have four times chances to buy bike than the other two (younger and older) groups.
+* People commute within two miles have twice chances to buy bikes.
 
 
-### Create Dashboard
+
+
 
 
 
